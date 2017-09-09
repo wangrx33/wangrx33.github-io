@@ -2,9 +2,9 @@
 layout: post
 
 #event information
-title:  "Create Commandline Node.js"
+title:  "中级实训"
 cover: "img/blur-background-1680x1050-spectrum-electromagnetic-4k-901-1.jpg"
-date:   2016-05-11
+date:   2017-09-09
 
 #event organiser details
 organiser: "Lucas Gatsas"
