@@ -19,7 +19,7 @@ comments: false
 show you guys some of my "wife"'s photos
 
 {% capture images %}
-    http://wx4.sinaimg.cn/mw690/a1d6bcffly1fi9ygnzbbcj20hs1hfh6l.jpg
+     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     http://wx3.sinaimg.cn/mw690/a1d6bcffly1fi9ygmf0odj20hs1hf4qp.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
