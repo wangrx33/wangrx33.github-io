@@ -22,7 +22,7 @@ show you guys some of my "wife"'s photos
      http://wx4.sinaimg.cn/mw690/a1d6bcffly1fi9ygnzbbcj20hs1hfh6l.jpg
     http://wx3.sinaimg.cn/mw690/a1d6bcffly1fi9ygmf0odj20hs1hf4qp.jpg
 {% endcapture %}
-#{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
 
 
 
