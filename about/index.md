@@ -6,7 +6,7 @@ date: 2017-09-09
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://www.baidu.com"><b>baidu</b></a>, if you need.</center>
 
 ## experience
 * SYSU  major in  software
@@ -16,13 +16,13 @@ comments: false
 * This blog is used to write down the note during grade three, which will be important in the future.
 ## Preview
 
-show you guys some of my favourite photos
+show you guys some of my "wife"'s photos
 
 {% capture images %}
-    'assets/img/timg.jpg'
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    http://wx1.sinaimg.cn/mw1024/719f300dly1fimoy2731tj21eo1rc4qp.jpg
+    http://wx4.sinaimg.cn/mw690/a1d6bcffly1fi9ygnzbbcj20hs1hfh6l.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+
 
