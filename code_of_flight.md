@@ -44,11 +44,11 @@ void FTC_RC::CheckACC(void)
 
 ###  code of 一键起飞
 
-{% highlight css %}
 
-# int count = 0;
+~~~ css
+int count = 0;
 
-# void FTC_RC::CheckAUX(void)   
+void FTC_RC::CheckAUX(void)   
 {
 		if(rc.rawData[AUX2]>0 && rc.rawData[AUX2]<2100)	//¸¨ÖúÍ¨µÀ1£¬Èý¶Î¿ª¹Ø
 	  {
@@ -88,4 +88,4 @@ void FTC_RC::CheckACC(void)
 		}
 }
 
-{%endhighlight%}
+~~~
