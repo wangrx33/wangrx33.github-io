@@ -9,7 +9,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//http://t.cn/RpaFdQc" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//http://f.us.sinaimg.cn/000Ae0u0lx07e9V4bdKM010f01001RyL0k01.mp4?label=mp4_hd&template=v2_template_ld&Expires=1505137422&ssig=H77O5zb6sV&KID=unistore,video" frameborder="0"> </iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
