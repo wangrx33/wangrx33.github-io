@@ -44,7 +44,6 @@ void FTC_RC::CheckACC(void)
 
 ###  code of 一键起飞
 
-
 ~~~ ruby
 int count = 0;
 
