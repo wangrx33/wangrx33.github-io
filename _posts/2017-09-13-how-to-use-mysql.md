@@ -138,11 +138,11 @@ create table tablename(columns) 为创建数据库表的命令, 列的名称以�
 括号内声明了5列内容, id、name、sex、age、tel为每列的名称, 后面跟的是数据类型描述, 列与列的描述之间用逗号(,)隔开;
 
 以 "id int unsigned not null auto_increment primary key" 行进行介绍:
-•	"id" 为列的名称;
-•	"int" 指定该列的类型为 int(取值范围为 -8388608到8388607), 在后面我们又用 "unsigned" 加以修饰, 表示该类型为无符号型, 此时该列的取值范围为 0到16777215;
-•	"not null" 说明该列的值不能为空, 必须要填, 如果不指定该属性, 默认可为空;
-•	"auto_increment" 需在整数列中使用, 其作用是在插入数据时若该列为 NULL, MySQL将自动产生一个比现存值更大的唯一标识符值。在每张表中仅能有一个这样的值且所在列必须为索引列。
-•	"primary key" 表示该列是表的主键, 本列的值必须唯一, MySQL将自动索引该列。
+-   "id" 为列的名称;
+-   "int" 指定该列的类型为 int(取值范围为 -8388608到8388607), 在后面我们又用 "unsigned" 加以修饰, 表示该类型为无符号型, 此时该列的取值范围为 0到16777215;
+-   "not null" 说明该列的值不能为空, 必须要填, 如果不指定该属性, 默认可为空;
+-   "auto_increment" 需在整数列中使用, 其作用是在插入数据时若该列为 NULL, MySQL将自动产生一个比现存值更大的唯一标识符值。在每张表中仅能有一个这样的值且所在列必须为索引列。
+-   "primary key" 表示该列是表的主键, 本列的值必须唯一, MySQL将自动索引该列。
 
 下面的 char(8) 表示存储的字符长度为8, tinyint的取值范围为 -127到128, default 属性指定当该列值为空时的默认值。
 
@@ -309,11 +309,12 @@ alter table 语句用于创建后对表的修改, 基础用法如下:
 
 
 
-{% highlight html %}
+~~~ html
+
 MySQL Workbench官方介绍: http://www.mysql.com/products/workbench/
 
 MySQL Workbench 下载页: http://dev.mysql.com/downloads/tools/workbench/
-{% endhighlight %}
+~~~
 
                                                                                                           from 阮文江老师的网盘
                                                                                                           
