@@ -5,7 +5,7 @@ date:   2017-09-13
 excerpt: "Something you need to know when using MySQL"
 ---
 
-21分钟 MySQL 入门教程
+###　21分钟 MySQL 入门教程
  
 一、MySQL的相关概念介绍
 
