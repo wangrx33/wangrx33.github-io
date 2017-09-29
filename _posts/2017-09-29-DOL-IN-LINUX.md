@@ -1,8 +1,8 @@
 ---
-layout:     linux环境下的DOL配置
-title:    linux环境下的DOL配置
+layout:     post
+title:    "linux环境下的DOL配置"
 data:   2017-09-29
-excerpt:   linux环境下的DOL配置
+excerpt:   "linux环境下的DOL配置"
 ---
 
 #### 关于DOL（分布式操作层）
