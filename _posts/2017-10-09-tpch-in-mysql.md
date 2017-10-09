@@ -1,8 +1,8 @@
 ---
-layout:tpch in mysql
-data:2017-10-09
-title:tpch in mysql
-
+layout: post
+title:  " tpch in mysql "
+date:   2017-10-09
+excerpt: "how to load tpch into mysql "
 ---
 
 ```html
