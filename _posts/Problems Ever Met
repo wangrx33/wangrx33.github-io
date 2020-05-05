@@ -1,0 +1,2 @@
+Problem1: Error while reading resource variable xxx from Container: localhost. This could mean that the variable was uninitialized.
+Solution: 版本问题 版本改成： TensorFlow GPU 1.13.1  Keras 2.3.1
